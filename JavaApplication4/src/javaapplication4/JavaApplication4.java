@@ -4,21 +4,20 @@
  * and open the template in the editor.
  */
 
-package pesoideal;
+package javaapplication4;
 
 /**
+ *
  * @author ManueloD-21
  */
-public class PesoIdeal {
+public class JavaApplication4 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola mundo");
         // TODO code application logic here
-     
-        
+        System.out.println("Hola Github");
     }
     
 }
