@@ -17,7 +17,7 @@ public class PesoIdealGithub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Mensaje inicial");
+        System.out.println("Mensaje inicial...");
     }
     
 }
